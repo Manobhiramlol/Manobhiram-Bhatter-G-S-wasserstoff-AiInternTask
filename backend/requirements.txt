@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+redis
+better_profanity
+pydantic
+python-dotenv
+requests
+streamlit
+streamlit_extras
+google-genai
