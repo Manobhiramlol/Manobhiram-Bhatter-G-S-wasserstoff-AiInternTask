@@ -55,8 +55,8 @@ Follow these steps to run the project locally using Docker:
 
 ```bash
 # Step 1: Clone the repository
-git clone <your-private-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/Manobhiramlol/Manobhiram-Bhatter-G-S-wasserstoff-AiInternTask.git
+cd Manobhiram-Bhatter-G-S-wasserstoff-AiInternTask
 
 # Step 2: Build and start the containers
 docker-compose up --build
